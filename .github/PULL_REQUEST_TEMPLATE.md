@@ -1,3 +1,7 @@
+---
+tags: [bug]
+
+---
 ## Required Steps
 - [ ] Check with the product owner
 - [ ] Write tests
