@@ -18,4 +18,4 @@ def sub(a, b, c = 0):
     sub(8, 3, 2) # 3
     ```
     """
-    return a - b - c
+    return a - b - cstad
